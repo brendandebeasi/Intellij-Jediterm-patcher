@@ -1,0 +1,18 @@
+# Cloned JediTerm source (user-specified location)
+src/
+jediterm/
+
+# macOS
+.DS_Store
+
+# Build logs
+*.log
+
+# Editor
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+*.iml
